@@ -37,5 +37,4 @@ public class CatTest {
         List<String> foodForCat = cat.getFood();
         assertEquals(List.of("Животные", "Птицы", "Рыба"), foodForCat);
     }
-
 }

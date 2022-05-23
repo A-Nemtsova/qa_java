@@ -58,5 +58,4 @@ public class LionTest {
         List<String> foodForLion = lion.getFood();
         assertEquals(List.of("Животные", "Птицы", "Рыба"), foodForLion);
     }
-
 }
